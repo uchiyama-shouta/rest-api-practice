@@ -18,7 +18,6 @@ const usersModule = (() => {
                            <td>${user.created_at}</td>
                            <td>${user.updated_at}</td>
                            <td><a href="edit.html?uid=${user.id}">編集</a></td>
-                           
                         </tr>`;
 				document
 					.getElementById("users-list")
