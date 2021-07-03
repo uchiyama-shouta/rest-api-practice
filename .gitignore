@@ -1,5 +1,5 @@
-app/db/database.sqlite3
+app/db/
 
-/node_modules/
+/node_modules
 .package-lock.json
 
